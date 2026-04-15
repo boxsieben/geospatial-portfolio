@@ -122,7 +122,7 @@ the critical role of temperature stress during germination and early growth stag
 - Variable importance plots for Ridge, RF, and SVM models
 - Predicted vs. actual yield bar chart across 11 sub-counties
 
-
+[View RMSE Map](RMSE_map.png)
 *(Map images in `/outputs/` folder)*
 
 ---
