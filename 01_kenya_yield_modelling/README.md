@@ -133,7 +133,7 @@ markdown## Outputs
 ![RMSE Map](RMSE_map.png)
 
 **RMSE heatmap by model and sub-county**
-![RMSE Heatmap](heatmap_rmse_sub_county.png)
+![RMSE Heatmap](heatmap_rmse_sub-county.png)
 
 **Predicted vs actual yield scatter plots**
 ![Scatter Plot](Grid_scatter_plot_updated.png)
