@@ -121,6 +121,7 @@ the critical role of temperature stress during germination and early growth stag
 - RMSE heatmap across sub-counties for four model configurations
 - Variable importance plots for Ridge, RF, and SVM models
 - Predicted vs. actual yield bar chart across 11 sub-counties
+![Average RMSE across sub-counties](RMSE_map.png)
 
 *(Map images in `/outputs/` folder)*
 
